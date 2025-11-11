@@ -14,9 +14,9 @@ A simple app designed to help users build micro-habits and feel better every day
 ## Getting Started
 1. Clone the repo  
 2. Install dependencies: 
-pm install  
+npm install  
 3. Start the app: 
-px expo start
+npx expo start
 
 ## License
 MIT
