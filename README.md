@@ -4,7 +4,7 @@ A simple mobile application designed to help users effortlessly build micro-habi
 
 ## Key Features
 
-    * Micro-Challenge Delivery: Delivers small, actionable tasks (e.g., "Drink water," "Stretch") up to three times per hour.
+    **Micro-Challenge Delivery: Delivers small, actionable tasks (e.g., "Drink water," "Stretch") up to three times per hour.
 
     High-Satisfaction UI: Features a premium, bubbly design with highly polished animations and a dramatic visual satisfaction burst (confetti-like pop) on challenge completion.
 
