@@ -4,17 +4,17 @@ A simple mobile application designed to help users effortlessly build micro-habi
 
 ## Key Features
 
-    **Micro-Challenge Delivery: Delivers small, actionable tasks (e.g., "Drink water," "Stretch") up to three times per hour.
+    # Micro-Challenge Delivery: Delivers small, actionable tasks (e.g., "Drink water," "Stretch") up to three times per hour.
 
-    High-Satisfaction UI: Features a premium, bubbly design with highly polished animations and a dramatic visual satisfaction burst (confetti-like pop) on challenge completion.
+    # High-Satisfaction UI: Features a premium, bubbly design with highly polished animations and a dramatic visual satisfaction burst (confetti-like pop) on challenge completion.
+    
+    # Tactile Feedback: Uses heavy haptics and custom animations for a satisfying, responsive experience.
 
-    Tactile Feedback: Uses heavy haptics and custom animations for a satisfying, responsive experience.
+    # Short Cooldown: Implements a brief 5-second cooldown after each action to encourage quick, continuous re-engagement.
 
-    Short Cooldown: Implements a brief 5-second cooldown after each action to encourage quick, continuous re-engagement.
+    # Local Data: Progress is securely tracked and saved locally using AsyncStorage.
 
-    Local Data: Progress is securely tracked and saved locally using AsyncStorage.
-
-    Optional Notifications: Supports local notifications to prompt users for their mini-boosts.
+    # Optional Notifications: Supports local notifications to prompt users for their mini-boosts.
 
 ## Tech Stack and Setup
 
