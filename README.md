@@ -30,7 +30,7 @@ You'll need Node.js, npm, and the Expo Go app installed on your mobile device fo
     Bash
 
 git clone [Your Repo URL]
-cd feel-good-kickstart
+cd Micro-Challenges
 
 ## Install dependencies: This project relies on a few key Expo packages for the premium experience.
 Bash
