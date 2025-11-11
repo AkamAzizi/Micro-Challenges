@@ -2,6 +2,12 @@
 
 A simple mobile application designed to help users effortlessly build micro-habits and improve daily well-being through small, manageable Micro-Challenges. The core philosophy is consistency over complexity.
 
+## App Screenshot
+## Game Screenshots
+<img src="IMG_6922.png" width="300">
+<img src="IMG_6923.png" width="300">
+<img src="IMG_6925.png" width="300">
+
 ## Key Features
 
     Micro-Challenge Delivery: Delivers small, actionable tasks (e.g., "Drink water," "Stretch") up to three times per hour.
