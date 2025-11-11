@@ -1,4 +1,4 @@
-Micro-Challenges: Feel Good Kickstart
+## Micro-Challenges: Feel Good Kickstart
 
 A simple mobile application designed to help users effortlessly build micro-habits and improve daily well-being through small, manageable Micro-Challenges. The core philosophy is consistency over complexity.
 
